@@ -77,10 +77,30 @@ We demonstrate the training time of the model after pruning. We emphasize that S
 
 
 
+> **W2**: Emphasize the innovation of clearly adopting the snowflake hypothesis.
+
+There has been considerable research on deepening GNNs, with deeper GNNs exhibiting greater fitting capabilities on large graphs, particularly in expansive social networks. These networks can aggregate more distant nodes for node updates. Additionally, deep GNNs pave a feasible path for the parallelism between GNNs and CNNs, serving as the foundation of our study. We have placed the relevant references at [6-15]. 
 
 
+[6] Deepgcns: Can gcns go as deep as cnns?
 
+[7] Training graph neural networks with 1000 layers
 
+[8] Deepergcn: All you need to train deeper gcns
+
+[9] Deepgcns: Making gcns go as deep as cnns
+
+[10] Predict then propagate: Graph neural networks meet personalized pagerank
+
+[11] Dropedge: Towards deep graph convolutional networks on node classification
+
+[12] Simple and deep graph convolutional networks
+
+[13] Adaptive diffusion in graph neural networks
+
+[14] Enhancing Multi-hop Connectivity for Graph Convolutional Networks
+
+[15] Deep graph structure learning for robust representations: A survey
 
 
 

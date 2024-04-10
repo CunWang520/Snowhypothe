@@ -103,9 +103,21 @@ There has been considerable research on deepening GNNs, with deeper GNNs exhibit
 [15] Deep graph structure learning for robust representations: A survey
 
 
+### Response to reviewer 65Ak 
+
+> **W1**: Why use cosine distance and how it affects the result. 
+
+We opt for cosine distance for the following reasons:
+
+* SnoHv1 struggles to scale to large-scale graphs when using gradients. Repeated gradient computations significantly impact model efficiency and add training pressure. Cosine distance, on the other hand, can aid in early stopping for certain nodes without introducing any external variables, thus addressing these issues more efficiently.
+
+* As the depth increases, repeated aggregation operations tend to make the central node and its neighboring nodes converge, resulting in diminishing changes over time. Therefore, cosine distance can effectively determine whether to continue aggregation and update node information.
 
 
+To better illustrate the impact of cosine distance on the results obtained by SnoHv2, we have included in the original manuscript's appendix the cosine distance variation curves and case studies. For ease of understanding, we have provided image results. It can be observed that cosine distance decreases continuously across different layers, and after using SnoHv2, there is indeed an improvement in the performance of certain nodes in local parts.
 
+![fig1](CASE study.jpg)
+![fig2](EXPALAIN.jpg)
 
 
 

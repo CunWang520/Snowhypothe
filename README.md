@@ -120,7 +120,7 @@ To better illustrate the impact of cosine distance on the results obtained by Sn
 ![fig2](EXPALAIN.jpg)
 
 
-
+> **W2**: The motivation and descriptions of Figure 1 are not clear.
 
 
 

@@ -116,7 +116,7 @@ We opt for cosine distance for the following reasons:
 
 To better illustrate the impact of cosine distance on the results obtained by SnoHv2, we have included in the original manuscript's appendix the cosine distance variation curves and case studies. For ease of understanding, we have provided image results. It can be observed that cosine distance decreases continuously across different layers, and after using SnoHv2, there is indeed an improvement in the performance of certain nodes in local parts.
 
-![fig1](CASE study.jpg)
+![fig1](casestudy.jpg)
 ![fig2](EXPALAIN.jpg)
 
 

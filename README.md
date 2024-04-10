@@ -126,7 +126,15 @@ To better illustrate the impact of cosine distance on the results obtained by Sn
 ![fig2](intro.jpg)
 
 
+[1] A unified lottery ticket hypothesis for graph neural networks
 
+[2] Searching lottery tickets in graph neural networks: A dual perspective
+ 
+[3] Brave the wind and the waves: Discovering robust and generalizable graph lottery tickets
+
+[4] A study on the ramanujan graph property of winning lottery tickets
+
+[5] Comprehensive graph gradual pruning for sparse training in graph neural networks
 
 
 

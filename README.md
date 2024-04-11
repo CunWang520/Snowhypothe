@@ -184,7 +184,7 @@ In the realm of neural architecture search (NAS), a variety of approaches have b
 
 > **W3**:
 
-
+![fig3](UGS.jpg)
 
 
 

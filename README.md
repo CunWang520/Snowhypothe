@@ -147,12 +147,42 @@ To better illustrate the impact of cosine distance on the results obtained by Sn
 
 
 ### Response to reviewer 9u2K
- 
+
+> **W1**:
+
+
+[1] Gradient gating for deep multi-rate learning on graphs
+
+[2] Towards Deep Attention in Graph Neural Networks: Problems and Remedies
+
+In the realm of neural architecture search (NAS), a variety of approaches have been explored to enhance the design of convolutional architectures. Pioneering works by [3] and subsequent studies [4-7] have utilized reinforcement learning to optimize neural architectures. A significant innovation in this field was the introduction of a recurrent network to generate CNN and RNN architectures as part of the NAS process. The Differentiable Architecture Search (DARTS), proposed by [7], represented another leap forward by enabling a differentiable search process, significantly reducing the time to identify high-performance convolutional architectures. GDAS, introduced by [9], further expedited the search process to be completed in just four GPU hours. These advancements underline the potency of NAS-based algorithms for creating sophisticated CNN and RNN designs. The ongoing research extends these methodologies to the domain of GNNs, aiming to leverage the NAS framework for the evolution of GNN architectures [10-13].
+
+
+[3] Neural architecture search with reinforcement learning
+
+[4] Efficient neural architecture search via parameters sharing
+
+[5]  Regularized evolution for image classifier architecture search. 
+
+[6] Proxylessnas: Direct neural architecture search on target task and hardware
+
+[7]  Darts: Differentiable architecture search.
+
+[8]  Regularized evolution for image classifier architecture search.
+
+[9] Searching for a robust neural architecture in four gpu hours.
+
+[10] Graph Neural Architecture Search
+
+[11] Graphnas: Graph neural architecture search with reinforcement learning
+
+[12] Simplifying architecture search for graph neural network
+
+[13] One-shot graph neural architecture search with dynamic search space
 
 
 
-
-
+> **W3**:
 
 
 
